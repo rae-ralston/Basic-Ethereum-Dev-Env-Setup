@@ -2,9 +2,12 @@
 
 ### Education
 ![Study!](http://data.whicdn.com/images/52945249/large.gif)
+- [A 101 Noob Intro to Programming Smart Contracts on Ethereum](http://consensys.github.io/developers/articles/101-noob-intro/)
 - [Bitcoin Book](https://github.com/bitcoinbook/bitcoinbook) by Andreas Antonopoulos
 - [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
-- [A 101 Noob Intro to Programming Smart Contracts on Ethereum](http://consensys.github.io/developers/articles/101-noob-intro/)
+- [Ethereum.org Intro Greeter Project](https://ethereum.org/greeter)
+- [Dapps for Beginners](https://dappsforbeginners.wordpress.com/)
+- [Just Enough Bitcoin for Ethereum](https://media.consensys.net/time-sure-does-fly-ed4518792679)
 
 ---
 ### Tech
