@@ -16,3 +16,14 @@
     - transfer funds between addresses
     - create contracts and send transactions
     - explore block history
+
+
+- [Metamask](https://metamask.io/) Chrome Plugin
+
+    MetaMask is a bridge that allows you to visit the distributed web of tomorrow in your browser today. It allows you to run Ethereum dApps right in your browser without running a full Ethereum node.
+
+    MetaMask includes a secure identity vault, providing a user interface to manage your identities on different sites and sign blockchain transactions.
+
+    We’re initially building MetaMask as a Chrome plugin, but eventually plan to support Firefox and beyond. If you’re a developer, you can start developing with MetaMask today.
+
+    Our mission is to make Ethereum as easy to use for as many people as possible.
