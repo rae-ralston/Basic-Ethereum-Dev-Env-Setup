@@ -5,9 +5,12 @@
 - [A 101 Noob Intro to Programming Smart Contracts on Ethereum](http://consensys.github.io/developers/articles/101-noob-intro/)
 - [Bitcoin Book](https://github.com/bitcoinbook/bitcoinbook) by Andreas Antonopoulos
 - [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
+- [Gavin Wood's Ethereum Virtual Machine Whitepaper](http://gavwood.com/Paper.pdf)
 - [Ethereum.org Intro Greeter Project](https://ethereum.org/greeter)
 - [Dapps for Beginners](https://dappsforbeginners.wordpress.com/)
 - [Just Enough Bitcoin for Ethereum](https://media.consensys.net/time-sure-does-fly-ed4518792679)
+- [Hitchhiker's Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
+- [(Video) How bitcoin works under the hood](http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html)
 
 ---
 ### Tech
