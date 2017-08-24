@@ -68,5 +68,5 @@ The `web3-bzz` is for the swarm protocol, the decentralized file storage
 The `web3-utils` contains useful helper functions for Dapp developers.
 
 ```
-$ npm install --save web3-eth
+$ npm install --save web3
 ```
