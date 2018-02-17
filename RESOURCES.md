@@ -2,7 +2,7 @@
 
 ### Education
 ![Study!](http://data.whicdn.com/images/52945249/large.gif)
-- [A 101 Noob Intro to Programming Smart Contracts on Ethereum](http://consensys.github.io/developers/articles/101-noob-intro/)
+- [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
 - [Bitcoin Book](https://github.com/bitcoinbook/bitcoinbook) by Andreas Antonopoulos
 - [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
 - [Gavin Wood's Ethereum Virtual Machine Whitepaper](http://gavwood.com/Paper.pdf)
